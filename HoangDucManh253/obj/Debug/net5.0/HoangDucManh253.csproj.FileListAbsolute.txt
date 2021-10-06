@@ -144,3 +144,8 @@ C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug
 C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\ref\HoangDucManh253.dll
 C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\HoangDucManh253.pdb
 C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\HoangDucManh253.genruntimeconfig.cache
+C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\Razor\Views\PersonHDM253\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\Razor\Views\PersonHDM253\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\Razor\Views\PersonHDM253\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\Razor\Views\PersonHDM253\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\hoangducmanh253\HoangDucManh253\HoangDucManh253\obj\Debug\net5.0\Razor\Views\PersonHDM253\Index.cshtml.g.cs

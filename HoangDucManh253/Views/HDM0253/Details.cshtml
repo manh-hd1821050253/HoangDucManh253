@@ -1,0 +1,30 @@
+﻿@model HoangDucManh253.Models.HDM0253
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>HDM0253</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HDMName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HDMName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HDMGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HDMGender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.HDMId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

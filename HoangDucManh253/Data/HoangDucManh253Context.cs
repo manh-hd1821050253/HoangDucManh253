@@ -15,5 +15,7 @@ namespace HoangDucManh253.Data
         }
 
         public DbSet<HoangDucManh253.Models.PersonHDM253> PersonHDM253 { get; set; }
+
+        public DbSet<HoangDucManh253.Models.HDM0253> HDM0253 { get; set; }
     }
 }
